@@ -52,8 +52,10 @@ job "digidb" {
       	    DATABASE_NAME = "strapi"
       	    DATABASE_HOST = "${NOMAD_UPSTREAM_IP_digidb_psql}"
       	    DATABASE_PORT = "${NOMAD_UPSTREAM_PORT_digidb_psql}"
-      	    DATABASE_USERNAME = "strapi"
-            DATABASE_PASSWORD = "strapi"
+      	    # Change these:
+            DATABASE_USERNAME = "strapi"
+            DATABASE_PASSWORD = "strapi" 
+           
         }
         volume_mount {
             volume = "digidb-app"
@@ -92,6 +94,7 @@ job "digidb" {
       driver = "docker"
       env{
         POSTGRES_DB = "strapi"
+        #change these:
         POSTGRES_USER = "strapi"
         POSTGRES_PASSWORD = "strapi"
       }
