@@ -8,7 +8,8 @@ I have included the docker-compose as well as the nomad hcl files for this proje
 I have provided sample data in data/digimon.json. You can load it in using the bootstrap function found in ./config/functions/bootstrap.js
 Simply replace the current module.exports with the code below:
 
-  ```module.exports = () => {
+```
+   module.exports = () => {
    var input = require('fs').readFileSync('./data/digimon.json');
    const data = JSON.parse(input);
    Object.keys(data.fulldigimondata).forEach(entry =>
@@ -23,6 +24,8 @@ Simply replace the current module.exports with the code below:
                Imagesrc: data.fulldigimondata[entry].imagesrc
            });
        });
-    };```
-
+    };
+```
+    
+    
 The fastest way to get this all up is to `docker-compose up -d` to spin up an empty strapi instance in production and a postgres container.
