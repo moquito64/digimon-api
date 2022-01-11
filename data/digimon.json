@@ -1,0 +1,2732 @@
+{
+    "fulldigimondata": {
+      "AeroVeedramon": {
+        "imagesrc": "http://digidb.io/images/dot/dot400.png",
+        "stage": "Ultimate",
+        "attribute": "Wind",
+        "type": "Vaccine",
+        "index": 150,
+        "name": "AeroVeedramon"
+      },
+      "Agumon": {
+        "stage": "Rookie",
+        "index": 18,
+        "type": "Vaccine",
+        "attribute": "Fire",
+        "name": "Agumon",
+        "imagesrc": "http://digidb.io/images/dot/dot050.png"
+      },
+      "Agumon (Blk)": {
+        "imagesrc": "http://digidb.io/images/dot/dot143.png",
+        "stage": "Rookie",
+        "index": 19,
+        "name": "Agumon (Blk)",
+        "type": "Virus",
+        "attribute": "Fire"
+      },
+      "Agunimon": {
+        "index": 68,
+        "stage": "Champion",
+        "name": "Agunimon",
+        "type": "Free",
+        "attribute": "Fire",
+        "imagesrc": "http://digidb.io/images/dot/dot676.png"
+      },
+      "Airdramon": {
+        "name": "Airdramon",
+        "index": 75,
+        "stage": "Champion",
+        "type": "Vaccine",
+        "imagesrc": "http://digidb.io/images/dot/dot011.png",
+        "attribute": "Wind"
+      },
+      "Alphamon": {
+        "imagesrc": "http://digidb.io/images/dot/dot416.png",
+        "stage": "Mega",
+        "attribute": "Neutral",
+        "type": "Vaccine",
+        "name": "Alphamon",
+        "index": 219
+      },
+      "Alphamon NX": {
+        "imagesrc": "http://digidb.io/images/dot/dot901.png",
+        "stage": "Mega",
+        "attribute": "Neutral",
+        "type": "Vaccine",
+        "index": 337,
+        "name": "Alphamon NX"
+      },
+      "Alphamon Ouryuken": {
+        "type": "Vaccine",
+        "attribute": "Neutral",
+        "imagesrc": "http://digidb.io/images/dot/dot766.png",
+        "name": "Alphamon Ouryuken",
+        "stage": "Ultra",
+        "index": 312
+      },
+      "Andromon": {
+        "imagesrc": "http://digidb.io/images/dot/dot342.png",
+        "stage": "Ultimate",
+        "attribute": "Electric",
+        "type": "Vaccine",
+        "index": 144,
+        "name": "Andromon"
+      },
+      "Angemon": {
+        "index": 77,
+        "name": "Angemon",
+        "stage": "Champion",
+        "type": "Vaccine",
+        "attribute": "Light",
+        "imagesrc": "http://digidb.io/images/dot/dot087.png"
+      },
+      "Angewomon": {
+        "imagesrc": "http://digidb.io/images/dot/dot148.png",
+        "stage": "Ultimate",
+        "name": "Angewomon",
+        "index": 152,
+        "type": "Vaccine",
+        "attribute": "Light"
+      },
+      "Ankylomon": {
+        "name": "Ankylomon",
+        "stage": "Champion",
+        "attribute": "Earth",
+        "imagesrc": "http://digidb.io/images/dot/dot711.png",
+        "index": 70,
+        "type": "Free"
+      },
+      "Antylamon": {
+        "imagesrc": "http://digidb.io/images/dot/dot731.png",
+        "stage": "Ultimate",
+        "attribute": "Neutral",
+        "type": "Data",
+        "name": "Antylamon",
+        "index": 143
+      },
+      "Apocalymon": {
+        "type": "Free",
+        "attribute": "Neutral",
+        "imagesrc": "http://digidb.io/images/dot/dot328.png",
+        "name": "Apocalymon",
+        "stage": "Ultra",
+        "index": 332
+      },
+      "Aquilamon": {
+        "imagesrc": "http://digidb.io/images/dot/dot015.png",
+        "stage": "Champion",
+        "attribute": "Wind",
+        "type": "Free",
+        "name": "Aquilamon",
+        "index": 67
+      },
+      "Arcadiamon Champion": {
+        "imagesrc": "http://digidb.io/images/dot/dot064.png",
+        "stage": "Champion",
+        "attribute": "Dark",
+        "type": "Virus",
+        "index": 69,
+        "name": "Arcadiamon Champion"
+      },
+      "Arcadiamon In-Tr.": {
+        "index": 6,
+        "stage": "In-Training",
+        "name": "Arcadiamon In-Tr.",
+        "type": "Free",
+        "imagesrc": "http://digidb.io/images/dot/dot062.png",
+        "attribute": "Dark"
+      },
+      "Arcadiamon Mega": {
+        "stage": "Mega",
+        "name": "Arcadiamon Mega",
+        "attribute": "Dark",
+        "index": 218,
+        "type": "Virus",
+        "imagesrc": "http://digidb.io/images/dot/dot066.png"
+      },
+      "Arcadiamon Rookie": {
+        "name": "Arcadiamon Rookie",
+        "type": "Virus",
+        "imagesrc": "http://digidb.io/images/dot/dot063.png",
+        "attribute": "Dark",
+        "index": 20,
+        "stage": "Rookie"
+      },
+      "Arcadiamon Ultimate": {
+        "imagesrc": "http://digidb.io/images/dot/dot065.png",
+        "stage": "Ultimate",
+        "attribute": "Dark",
+        "type": "Virus",
+        "name": "Arcadiamon Ultimate",
+        "index": 142
+      },
+      "Arcadiamon Ultra": {
+        "name": "Arcadiamon Ultra",
+        "imagesrc": "http://digidb.io/images/dot/dot067.png",
+        "stage": "Ultra",
+        "index": 311,
+        "type": "Virus",
+        "attribute": "Dark"
+      },
+      "Armadillomon": {
+        "type": "Free",
+        "attribute": "Earth",
+        "imagesrc": "http://digidb.io/images/dot/dot707.png",
+        "name": "Armadillomon",
+        "stage": "Rookie",
+        "index": 21
+      },
+      "Armageddemon": {
+        "imagesrc": "http://digidb.io/images/dot/dot106.png",
+        "stage": "Ultra",
+        "attribute": "Dark",
+        "type": "Free",
+        "name": "Armageddemon",
+        "index": 310
+      },
+      "Bakemon": {
+        "name": "Bakemon",
+        "stage": "Champion",
+        "imagesrc": "http://digidb.io/images/dot/dot013.png",
+        "index": 124,
+        "type": "Virus",
+        "attribute": "Dark"
+      },
+      "BanchoLeomon": {
+        "imagesrc": "http://digidb.io/images/dot/dot049.png",
+        "stage": "Mega",
+        "attribute": "Earth",
+        "type": "Vaccine",
+        "name": "BanchoLeomon",
+        "index": 272
+      },
+      "BaoHuckmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot115.png",
+        "stage": "Champion",
+        "attribute": "Fire",
+        "type": "Data",
+        "index": 123,
+        "name": "BaoHuckmon"
+      },
+      "Barbamon": {
+        "type": "Virus",
+        "attribute": "Dark",
+        "imagesrc": "http://digidb.io/images/dot/dot036.png",
+        "name": "Barbamon",
+        "stage": "Mega",
+        "index": 271
+      },
+      "Beelzemon": {
+        "index": 281,
+        "stage": "Mega",
+        "name": "Beelzemon",
+        "type": "Virus",
+        "attribute": "Dark",
+        "imagesrc": "http://digidb.io/images/dot/dot035.png"
+      },
+      "Beelzemon BM": {
+        "imagesrc": "http://digidb.io/images/dot/dot775.png",
+        "stage": "Mega",
+        "name": "Beelzemon BM",
+        "index": 282,
+        "type": "Virus",
+        "attribute": "Dark"
+      },
+      "Belphemon RM": {
+        "imagesrc": "http://digidb.io/images/dot/dot040.png",
+        "stage": "Ultra",
+        "attribute": "Dark",
+        "type": "Virus",
+        "name": "Belphemon RM",
+        "index": 321
+      },
+      "Belphemon SM": {
+        "type": "Virus",
+        "attribute": "Dark",
+        "imagesrc": "http://digidb.io/images/dot/dot439.png",
+        "name": "Belphemon SM",
+        "stage": "Mega",
+        "index": 283
+      },
+      "Betamon": {
+        "imagesrc": "http://digidb.io/images/dot/dot389.png",
+        "stage": "Rookie",
+        "attribute": "Water",
+        "type": "Virus",
+        "name": "Betamon",
+        "index": 55
+      },
+      "Birdramon": {
+        "type": "Vaccine",
+        "attribute": "Fire",
+        "imagesrc": "http://digidb.io/images/dot/dot308.png",
+        "name": "Birdramon",
+        "stage": "Champion",
+        "index": 122
+      },
+      "Biyomon": {
+        "index": 50,
+        "stage": "Rookie",
+        "name": "Biyomon",
+        "type": "Vaccine",
+        "attribute": "Wind",
+        "imagesrc": "http://digidb.io/images/dot/dot307.png"
+      },
+      "BlackGatomon": {
+        "stage": "Champion",
+        "name": "BlackGatomon",
+        "imagesrc": "http://digidb.io/images/dot/dot043.png",
+        "index": 128,
+        "type": "Virus",
+        "attribute": "Dark"
+      },
+      "BlackKingNumemon": {
+        "imagesrc": "http://digidb.io/images/dot/dot753.png",
+        "stage": "Ultimate",
+        "attribute": "Dark",
+        "type": "Virus",
+        "name": "BlackKingNumemon",
+        "index": 191
+      },
+      "BlackWarGreymon": {
+        "imagesrc": "http://digidb.io/images/dot/dot175.png",
+        "stage": "Mega",
+        "attribute": "Fire",
+        "type": "Virus",
+        "index": 276,
+        "name": "BlackWarGreymon"
+      },
+      "BlueMeramon": {
+        "stage": "Ultimate",
+        "name": "BlueMeramon",
+        "attribute": "Fire",
+        "index": 192,
+        "type": "Virus",
+        "imagesrc": "http://digidb.io/images/dot/dot177.png"
+      },
+      "Boltmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot431.png",
+        "stage": "Mega",
+        "attribute": "Electric",
+        "type": "Data",
+        "index": 286,
+        "name": "Boltmon"
+      },
+      "Botamon": {
+        "stage": "Baby",
+        "name": "Botamon",
+        "attribute": "Neutral",
+        "index": 4,
+        "type": "Free",
+        "imagesrc": "http://digidb.io/images/dot/dot317.png"
+      },
+      "Breakdramon": {
+        "imagesrc": "http://digidb.io/images/dot/dot214.png",
+        "stage": "Mega",
+        "attribute": "Earth",
+        "type": "Virus",
+        "index": 278,
+        "name": "Breakdramon"
+      },
+      "Bukamon": {
+        "index": 15,
+        "stage": "In-Training",
+        "name": "Bukamon",
+        "type": "Free",
+        "imagesrc": "http://digidb.io/images/dot/dot514.png",
+        "attribute": "Water"
+      },
+      "BurningGreymon": {
+        "imagesrc": "http://digidb.io/images/dot/dot679.png",
+        "stage": "Ultimate",
+        "attribute": "Fire",
+        "type": "Free",
+        "name": "BurningGreymon",
+        "index": 149
+      },
+      "CannonBeemon": {
+        "index": 158,
+        "stage": "Ultimate",
+        "name": "CannonBeemon",
+        "type": "Virus",
+        "imagesrc": "http://digidb.io/images/dot/dot727.png",
+        "attribute": "Electric"
+      },
+      "CatchMamemon": {
+        "imagesrc": "http://digidb.io/images/dot/dot044.png",
+        "stage": "Ultimate",
+        "attribute": "Electric",
+        "type": "Data",
+        "index": 157,
+        "name": "CatchMamemon"
+      },
+      "ChaosGallantmon": {
+        "index": 232,
+        "name": "ChaosGallantmon",
+        "stage": "Mega",
+        "type": "Virus",
+        "attribute": "Dark",
+        "imagesrc": "http://digidb.io/images/dot/dot150.png"
+      },
+      "Chaosdramon": {
+        "imagesrc": "http://digidb.io/images/dot/dot422.png",
+        "stage": "Mega",
+        "index": 233,
+        "type": "Virus",
+        "name": "Chaosdramon",
+        "attribute": "Electric"
+      },
+      "Chaosmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot772.png",
+        "stage": "Ultra",
+        "attribute": "Neutral",
+        "type": "Vaccine",
+        "index": 317,
+        "name": "Chaosmon"
+      },
+      "Chaosmon VA": {
+        "attribute": "Light",
+        "type": "Vaccine",
+        "index": 318,
+        "imagesrc": "http://digidb.io/images/dot/dot118.png",
+        "name": "Chaosmon VA",
+        "stage": "Ultra"
+      },
+      "Cherrymon": {
+        "stage": "Ultimate",
+        "index": 165,
+        "type": "Virus",
+        "attribute": "Plant",
+        "name": "Cherrymon",
+        "imagesrc": "http://digidb.io/images/dot/dot379.png"
+      },
+      "Chirinmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot084.png",
+        "stage": "Ultimate",
+        "attribute": "Light",
+        "type": "Vaccine",
+        "index": 174,
+        "name": "Chirinmon"
+      },
+      "Chuumon": {
+        "imagesrc": "http://digidb.io/images/dot/dot020.png",
+        "stage": "Rookie",
+        "index": 38,
+        "type": "Virus",
+        "name": "Chuumon",
+        "attribute": "Earth"
+      },
+      "Clockmon": {
+        "index": 92,
+        "stage": "Champion",
+        "name": "Clockmon",
+        "type": "Data",
+        "imagesrc": "http://digidb.io/images/dot/dot398.png",
+        "attribute": "Electric"
+      },
+      "Coelamon": {
+        "stage": "Champion",
+        "name": "Coelamon",
+        "attribute": "Water",
+        "index": 104,
+        "type": "Data",
+        "imagesrc": "http://digidb.io/images/dot/dot130.png"
+      },
+      "Coredramon (Blue)": {
+        "imagesrc": "http://digidb.io/images/dot/dot218.png",
+        "stage": "Champion",
+        "attribute": "Wind",
+        "type": "Vaccine",
+        "index": 96,
+        "name": "Coredramon (Blue)"
+      },
+      "Coredramon (Green)": {
+        "imagesrc": "http://digidb.io/images/dot/dot209.png",
+        "stage": "Champion",
+        "index": 97,
+        "name": "Coredramon (Green)",
+        "type": "Virus",
+        "attribute": "Earth"
+      },
+      "Craniamon": {
+        "stage": "Mega",
+        "index": 241,
+        "type": "Vaccine",
+        "attribute": "Earth",
+        "imagesrc": "http://digidb.io/images/dot/dot734.png",
+        "name": "Craniamon"
+      },
+      "Creepymon": {
+        "stage": "Mega",
+        "name": "Creepymon",
+        "attribute": "Dark",
+        "index": 261,
+        "type": "Virus",
+        "imagesrc": "http://digidb.io/images/dot/dot038.png"
+      },
+      "Crescemon": {
+        "type": "Data",
+        "attribute": "Water",
+        "imagesrc": "http://digidb.io/images/dot/dot004.png",
+        "name": "Crescemon",
+        "stage": "Ultimate",
+        "index": 162
+      },
+      "Crowmon": {
+        "stage": "Ultimate",
+        "index": 208,
+        "type": "Vaccine",
+        "attribute": "Wind",
+        "imagesrc": "http://digidb.io/images/dot/dot721.png",
+        "name": "Crowmon"
+      },
+      "Crusadermon": {
+        "index": 306,
+        "imagesrc": "http://digidb.io/images/dot/dot703.png",
+        "stage": "Mega",
+        "name": "Crusadermon",
+        "attribute": "Dark",
+        "type": "Virus"
+      },
+      "Crusadermon NX": {
+        "name": "Crusadermon NX",
+        "stage": "Mega",
+        "attribute": "Dark",
+        "index": 338,
+        "imagesrc": "http://digidb.io/images/dot/dot902.png",
+        "type": "Virus"
+      },
+      "Cyberdramon": {
+        "stage": "Ultimate",
+        "name": "Cyberdramon",
+        "imagesrc": "http://digidb.io/images/dot/dot719.png",
+        "type": "Vaccine",
+        "attribute": "Dark",
+        "index": 163
+      },
+      "Cyclonemon": {
+        "type": "Virus",
+        "attribute": "Earth",
+        "imagesrc": "http://digidb.io/images/dot/dot452.png",
+        "name": "Cyclonemon",
+        "stage": "Champion",
+        "index": 100
+      },
+      "Darkdramon": {
+        "index": 255,
+        "imagesrc": "http://digidb.io/images/dot/dot771.png",
+        "name": "Darkdramon",
+        "stage": "Mega",
+        "attribute": "Electric",
+        "type": "Virus"
+      },
+      "Datamon": {
+        "stage": "Ultimate",
+        "name": "Datamon",
+        "imagesrc": "http://digidb.io/images/dot/dot576.png",
+        "index": 183,
+        "type": "Virus",
+        "attribute": "Electric"
+      },
+      "DemiDevimon": {
+        "stage": "Rookie",
+        "index": 49,
+        "type": "Virus",
+        "attribute": "Dark",
+        "imagesrc": "http://digidb.io/images/dot/dot097.png",
+        "name": "DemiDevimon"
+      },
+      "Devimon": {
+        "imagesrc": "http://digidb.io/images/dot/dot093.png",
+        "stage": "Champion",
+        "attribute": "Dark",
+        "type": "Virus",
+        "index": 116,
+        "name": "Devimon"
+      },
+      "Diaboromon": {
+        "stage": "Mega",
+        "name": "Diaboromon",
+        "attribute": "Dark",
+        "index": 260,
+        "type": "Free",
+        "imagesrc": "http://digidb.io/images/dot/dot632.png"
+      },
+      "Dianamon": {
+        "name": "Dianamon",
+        "index": 259,
+        "stage": "Mega",
+        "type": "Data",
+        "imagesrc": "http://digidb.io/images/dot/dot733.png",
+        "attribute": "Water"
+      },
+      "Digitamamon": {
+        "type": "Data",
+        "attribute": "Neutral",
+        "imagesrc": "http://digidb.io/images/dot/dot374.png",
+        "name": "Digitamamon",
+        "stage": "Ultimate",
+        "index": 176
+      },
+      "Dinobeemon": {
+        "index": 175,
+        "stage": "Ultimate",
+        "name": "Dinobeemon",
+        "type": "Free",
+        "imagesrc": "http://digidb.io/images/dot/dot023.png",
+        "attribute": "Plant"
+      },
+      "DoruGreymon": {
+        "imagesrc": "http://digidb.io/images/dot/dot407.png",
+        "stage": "Ultimate",
+        "attribute": "Fire",
+        "type": "Data",
+        "index": 181,
+        "name": "DoruGreymon"
+      },
+      "Dorugamon": {
+        "index": 119,
+        "stage": "Champion",
+        "name": "Dorugamon",
+        "type": "Data",
+        "attribute": "Earth",
+        "imagesrc": "http://digidb.io/images/dot/dot396.png"
+      },
+      "Dorugoramon": {
+        "imagesrc": "http://digidb.io/images/dot/dot019.png",
+        "stage": "Mega",
+        "attribute": "Dark",
+        "type": "Data",
+        "index": 267,
+        "name": "Dorugoramon"
+      },
+      "Dorumon": {
+        "imagesrc": "http://digidb.io/images/dot/dot112.png",
+        "stage": "Rookie",
+        "name": "Dorumon",
+        "index": 44,
+        "type": "Data",
+        "attribute": "Neutral"
+      },
+      "Dracmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot457.png",
+        "stage": "Rookie",
+        "attribute": "Dark",
+        "type": "Virus",
+        "index": 42,
+        "name": "Dracmon"
+      },
+      "Dracomon": {
+        "type": "Data",
+        "name": "Dracomon",
+        "imagesrc": "http://digidb.io/images/dot/dot208.png",
+        "attribute": "Fire",
+        "index": 43,
+        "stage": "Rookie"
+      },
+      "Dragomon": {
+        "imagesrc": "http://digidb.io/images/dot/dot129.png",
+        "stage": "Ultimate",
+        "attribute": "Water",
+        "type": "Virus",
+        "name": "Dragomon",
+        "index": 173
+      },
+      "Duramon": {
+        "imagesrc": "http://digidb.io/images/dot/dot699.png",
+        "stage": "Ultimate",
+        "index": 178,
+        "name": "Duramon",
+        "type": "Vaccine",
+        "attribute": "Neutral"
+      },
+      "Durandamon": {
+        "type": "Vaccine",
+        "attribute": "Neutral",
+        "imagesrc": "http://digidb.io/images/dot/dot700.png",
+        "name": "Durandamon",
+        "stage": "Mega",
+        "index": 264
+      },
+      "Dynasmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot738.png",
+        "stage": "Mega",
+        "attribute": "Wind",
+        "type": "Data",
+        "name": "Dynasmon",
+        "index": 263
+      },
+      "Ebemon": {
+        "imagesrc": "http://digidb.io/images/dot/dot451.png",
+        "index": 221,
+        "stage": "Mega",
+        "name": "Ebemon",
+        "type": "Virus",
+        "attribute": "Electric"
+      },
+      "Elecmon": {
+        "stage": "Rookie",
+        "name": "Elecmon",
+        "imagesrc": "http://digidb.io/images/dot/dot564.png",
+        "index": 23,
+        "type": "Data",
+        "attribute": "Electric"
+      },
+      "Etemon": {
+        "imagesrc": "http://digidb.io/images/dot/dot311.png",
+        "stage": "Ultimate",
+        "attribute": "Dark",
+        "type": "Virus",
+        "name": "Etemon",
+        "index": 151
+      },
+      "ExVeemon": {
+        "type": "Free",
+        "attribute": "Neutral",
+        "imagesrc": "http://digidb.io/images/dot/dot365.png",
+        "name": "ExVeemon",
+        "stage": "Champion",
+        "index": 76
+      },
+      "Examon": {
+        "name": "Examon",
+        "stage": "Ultra",
+        "attribute": "Wind",
+        "index": 314,
+        "imagesrc": "http://digidb.io/images/dot/dot215.png",
+        "type": "Data"
+      },
+      "Falcomon": {
+        "imagesrc": "http://digidb.io/images/dot/dot705.png",
+        "stage": "Rookie",
+        "attribute": "Wind",
+        "type": "Vaccine",
+        "index": 51,
+        "name": "Falcomon"
+      },
+      "FanBeemon": {
+        "stage": "Rookie",
+        "name": "FanBeemon",
+        "attribute": "Plant",
+        "index": 52,
+        "type": "Virus",
+        "imagesrc": "http://digidb.io/images/dot/dot042.png"
+      },
+      "Flamedramon": {
+        "name": "Flamedramon",
+        "index": 323,
+        "stage": "Armor",
+        "type": "Free",
+        "imagesrc": "http://digidb.io/images/dot/dot716.png",
+        "attribute": "Fire"
+      },
+      "Frigimon": {
+        "imagesrc": "http://digidb.io/images/dot/dot370.png",
+        "index": 133,
+        "stage": "Champion",
+        "type": "Vaccine",
+        "name": "Frigimon",
+        "attribute": "Water"
+      },
+      "Gabumon": {
+        "imagesrc": "http://digidb.io/images/dot/dot151.png",
+        "stage": "Rookie",
+        "attribute": "Fire",
+        "type": "Data",
+        "name": "Gabumon",
+        "index": 27
+      },
+      "Gabumon (Blk)": {
+        "stage": "Rookie",
+        "index": 28,
+        "type": "Virus",
+        "attribute": "Fire",
+        "imagesrc": "http://digidb.io/images/dot/dot713.png",
+        "name": "Gabumon (Blk)"
+      },
+      "Gaiomon": {
+        "imagesrc": "http://digidb.io/images/dot/dot744.png",
+        "index": 230,
+        "stage": "Mega",
+        "type": "Virus",
+        "name": "Gaiomon",
+        "attribute": "Fire"
+      },
+      "Gallantmon": {
+        "type": "Virus",
+        "attribute": "Light",
+        "imagesrc": "http://digidb.io/images/dot/dot126.png",
+        "name": "Gallantmon",
+        "stage": "Mega",
+        "index": 262
+      },
+      "Gallantmon CM": {
+        "imagesrc": "http://digidb.io/images/dot/dot105.png",
+        "stage": "Ultra",
+        "attribute": "Light",
+        "type": "Virus",
+        "index": 320,
+        "name": "Gallantmon CM"
+      },
+      "Gallantmon NX": {
+        "index": 341,
+        "name": "Gallantmon NX",
+        "stage": "Mega",
+        "type": "Virus",
+        "attribute": "Light",
+        "imagesrc": "http://digidb.io/images/dot/dot905.png"
+      },
+      "Gankoomon": {
+        "type": "Data",
+        "attribute": "Fire",
+        "imagesrc": "http://digidb.io/images/dot/dot688.png",
+        "name": "Gankoomon",
+        "stage": "Mega",
+        "index": 234
+      },
+      "GaoGamon": {
+        "name": "GaoGamon",
+        "stage": "Champion",
+        "attribute": "Wind",
+        "imagesrc": "http://digidb.io/images/dot/dot068.png",
+        "index": 81,
+        "type": "Data"
+      },
+      "Gaomon": {
+        "type": "Data",
+        "attribute": "Neutral",
+        "imagesrc": "http://digidb.io/images/dot/dot055.png",
+        "name": "Gaomon",
+        "stage": "Rookie",
+        "index": 25
+      },
+      "Gargomon": {
+        "imagesrc": "http://digidb.io/images/dot/dot710.png",
+        "stage": "Champion",
+        "attribute": "Electric",
+        "type": "Vaccine",
+        "index": 84,
+        "name": "Gargomon"
+      },
+      "Garudamon": {
+        "stage": "Ultimate",
+        "imagesrc": "http://digidb.io/images/dot/dot309.png",
+        "name": "Garudamon",
+        "index": 154,
+        "type": "Vaccine",
+        "attribute": "Fire"
+      },
+      "Garurumon": {
+        "name": "Garurumon",
+        "index": 85,
+        "stage": "Champion",
+        "type": "Vaccine",
+        "imagesrc": "http://digidb.io/images/dot/dot012.png",
+        "attribute": "Fire"
+      },
+      "Garurumon (Blk)": {
+        "imagesrc": "http://digidb.io/images/dot/dot714.png",
+        "stage": "Champion",
+        "index": 86,
+        "type": "Virus",
+        "name": "Garurumon (Blk)",
+        "attribute": "Fire"
+      },
+      "Gatomon": {
+        "imagesrc": "http://digidb.io/images/dot/dot092.png",
+        "stage": "Champion",
+        "attribute": "Light",
+        "type": "Vaccine",
+        "name": "Gatomon",
+        "index": 115
+      },
+      "Gazimon": {
+        "imagesrc": "http://digidb.io/images/dot/dot569.png",
+        "stage": "Rookie",
+        "attribute": "Dark",
+        "type": "Virus",
+        "index": 26,
+        "name": "Gazimon"
+      },
+      "Gekomon": {
+        "stage": "Champion",
+        "imagesrc": "http://digidb.io/images/dot/dot399.png",
+        "name": "Gekomon",
+        "index": 94,
+        "type": "Virus",
+        "attribute": "Water"
+      },
+      "GeoGreymon": {
+        "type": "Vaccine",
+        "attribute": "Fire",
+        "imagesrc": "http://digidb.io/images/dot/dot054.png",
+        "name": "GeoGreymon",
+        "stage": "Champion",
+        "index": 105
+      },
+      "Geremon": {
+        "imagesrc": "http://digidb.io/images/dot/dot729.png",
+        "stage": "Champion",
+        "attribute": "Electric",
+        "type": "Virus",
+        "name": "Geremon",
+        "index": 95
+      },
+      "Gigadramon": {
+        "imagesrc": "http://digidb.io/images/dot/dot402.png",
+        "stage": "Ultimate",
+        "attribute": "Wind",
+        "type": "Virus",
+        "index": 156,
+        "name": "Gigadramon"
+      },
+      "Ginryumon": {
+        "stage": "Champion",
+        "index": 329,
+        "type": "Vaccine",
+        "attribute": "Neutral",
+        "name": "Ginryumon",
+        "imagesrc": "http://digidb.io/images/dot/dot191.png"
+      },
+      "Goblimon": {
+        "index": 33,
+        "name": "Goblimon",
+        "stage": "Rookie",
+        "type": "Virus",
+        "attribute": "Earth",
+        "imagesrc": "http://digidb.io/images/dot/dot111.png"
+      },
+      "GoldNumemon": {
+        "attribute": "Light",
+        "name": "GoldNumemon",
+        "index": 98,
+        "type": "Virus",
+        "imagesrc": "http://digidb.io/images/dot/dot113.png",
+        "stage": "Champion"
+      },
+      "Goldramon": {
+        "imagesrc": "http://digidb.io/images/dot/dot048.png",
+        "stage": "Mega",
+        "attribute": "Light",
+        "type": "Vaccine",
+        "index": 244,
+        "name": "Goldramon"
+      },
+      "Golemon": {
+        "type": "Virus",
+        "attribute": "Earth",
+        "imagesrc": "http://digidb.io/images/dot/dot005.png",
+        "name": "Golemon",
+        "stage": "Champion",
+        "index": 99
+      },
+      "Gomamon": {
+        "imagesrc": "http://digidb.io/images/dot/dot343.png",
+        "index": 34,
+        "stage": "Rookie",
+        "type": "Vaccine",
+        "name": "Gomamon",
+        "attribute": "Water"
+      },
+      "Gotsumon": {
+        "stage": "Rookie",
+        "index": 32,
+        "name": "Gotsumon",
+        "type": "Data",
+        "imagesrc": "http://digidb.io/images/dot/dot595.png",
+        "attribute": "Earth"
+      },
+      "Grademon": {
+        "imagesrc": "http://digidb.io/images/dot/dot026.png",
+        "stage": "Ultimate",
+        "attribute": "Neutral",
+        "type": "Vaccine",
+        "name": "Grademon",
+        "index": 161
+      },
+      "GranDracmon": {
+        "type": "Virus",
+        "attribute": "Dark",
+        "imagesrc": "http://digidb.io/images/dot/dot032.png",
+        "name": "GranDracmon",
+        "stage": "Mega",
+        "index": 238
+      },
+      "GranKuwagamon": {
+        "imagesrc": "http://digidb.io/images/dot/dot423.png",
+        "stage": "Mega",
+        "index": 237,
+        "type": "Virus",
+        "name": "GranKuwagamon",
+        "attribute": "Plant"
+      },
+      "GrapLeomon": {
+        "imagesrc": "http://digidb.io/images/dot/dot403.png",
+        "stage": "Ultimate",
+        "attribute": "Electric",
+        "type": "Vaccine",
+        "name": "GrapLeomon",
+        "index": 160
+      },
+      "Greymon": {
+        "imagesrc": "http://digidb.io/images/dot/dot326.png",
+        "name": "Greymon",
+        "stage": "Champion",
+        "index": 90,
+        "type": "Vaccine",
+        "attribute": "Fire"
+      },
+      "Greymon (Blue)": {
+        "name": "Greymon (Blue)",
+        "index": 91,
+        "stage": "Champion",
+        "type": "Virus",
+        "imagesrc": "http://digidb.io/images/dot/dot712.png",
+        "attribute": "Fire"
+      },
+      "GroundLocomon": {
+        "attribute": "Electric",
+        "type": "Data",
+        "imagesrc": "http://digidb.io/images/dot/dot704.png",
+        "name": "GroundLocomon",
+        "index": 239,
+        "stage": "Mega"
+      },
+      "Groundramon": {
+        "imagesrc": "http://digidb.io/images/dot/dot211.png",
+        "stage": "Ultimate",
+        "attribute": "Earth",
+        "type": "Virus",
+        "name": "Groundramon",
+        "index": 159
+      },
+      "Growlmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot078.png",
+        "stage": "Champion",
+        "attribute": "Fire",
+        "type": "Virus",
+        "index": 88,
+        "name": "Growlmon"
+      },
+      "Gryphonmon": {
+        "index": 240,
+        "imagesrc": "http://digidb.io/images/dot/dot083.png",
+        "stage": "Mega",
+        "name": "Gryphonmon",
+        "attribute": "Wind",
+        "type": "Data"
+      },
+      "Guardromon": {
+        "stage": "Champion",
+        "name": "Guardromon",
+        "attribute": "Electric",
+        "index": 79,
+        "type": "Virus",
+        "imagesrc": "http://digidb.io/images/dot/dot341.png"
+      },
+      "Guardromon (Gold)": {
+        "attribute": "Electric",
+        "name": "Guardromon (Gold)",
+        "type": "Free",
+        "imagesrc": "http://digidb.io/images/dot/dot760.png",
+        "index": 80,
+        "stage": "Champion"
+      },
+      "Guilmon": {
+        "type": "Virus",
+        "attribute": "Fire",
+        "imagesrc": "http://digidb.io/images/dot/dot090.png",
+        "name": "Guilmon",
+        "stage": "Rookie",
+        "index": 29
+      },
+      "Hackmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot687.png",
+        "stage": "Rookie",
+        "attribute": "Fire",
+        "type": "Data",
+        "name": "Hackmon",
+        "index": 47
+      },
+      "Hagurumon": {
+        "stage": "Rookie",
+        "name": "Hagurumon",
+        "imagesrc": "http://digidb.io/images/dot/dot009.png",
+        "index": 45,
+        "type": "Virus",
+        "attribute": "Electric"
+      },
+      "Hawkmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot706.png",
+        "index": 56,
+        "stage": "Rookie",
+        "name": "Hawkmon",
+        "type": "Free",
+        "attribute": "Wind"
+      },
+      "HerculesKabuterimon": {
+        "imagesrc": "http://digidb.io/images/dot/dot306.png",
+        "stage": "Mega",
+        "attribute": "Plant",
+        "type": "Vaccine",
+        "index": 280,
+        "name": "HerculesKabuterimon"
+      },
+      "HiAndromon": {
+        "index": 269,
+        "name": "HiAndromon",
+        "stage": "Mega",
+        "type": "Vaccine",
+        "imagesrc": "http://digidb.io/images/dot/dot426.png",
+        "attribute": "Electric"
+      },
+      "HippoGryphonmon": {
+        "name": "HippoGryphonmon",
+        "index": 189,
+        "stage": "Ultimate",
+        "type": "Data",
+        "imagesrc": "http://digidb.io/images/dot/dot082.png",
+        "attribute": "Wind"
+      },
+      "Hisyaryumon": {
+        "index": 330,
+        "stage": "Ultimate",
+        "name": "Hisyaryumon",
+        "type": "Vaccine",
+        "imagesrc": "http://digidb.io/images/dot/dot192.png",
+        "attribute": "Neutral"
+      },
+      "Hououmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot310.png",
+        "stage": "Mega",
+        "attribute": "Fire",
+        "type": "Vaccine",
+        "index": 284,
+        "name": "Hououmon"
+      },
+      "Hudiemon": {
+        "imagesrc": "http://digidb.io/images/dot/dot022.png",
+        "stage": "Champion",
+        "attribute": "Plant",
+        "type": "Free",
+        "name": "Hudiemon",
+        "index": 126
+      },
+      "IceDevimon": {
+        "imagesrc": "http://digidb.io/images/dot/dot730.png",
+        "stage": "Champion",
+        "attribute": "Water",
+        "type": "Virus",
+        "index": 65,
+        "name": "IceDevimon"
+      },
+      "Icemon": {
+        "stage": "Champion",
+        "name": "Icemon",
+        "attribute": "Water",
+        "index": 66,
+        "type": "Data",
+        "imagesrc": "http://digidb.io/images/dot/dot758.png"
+      },
+      "Ikkakumon": {
+        "imagesrc": "http://digidb.io/images/dot/dot344.png",
+        "stage": "Champion",
+        "attribute": "Water",
+        "type": "Vaccine",
+        "index": 71,
+        "name": "Ikkakumon"
+      },
+      "Imperialdramon DM": {
+        "stage": "Mega",
+        "name": "Imperialdramon DM",
+        "imagesrc": "http://digidb.io/images/dot/dot732.png",
+        "index": 222,
+        "type": "Free",
+        "attribute": "Fire"
+      },
+      "Imperialdramon FM": {
+        "stage": "Mega",
+        "index": 223,
+        "type": "Free",
+        "attribute": "Neutral",
+        "imagesrc": "http://digidb.io/images/dot/dot419.png",
+        "name": "Imperialdramon FM"
+      },
+      "Imperialdramon PM": {
+        "imagesrc": "http://digidb.io/images/dot/dot420.png",
+        "stage": "Ultra",
+        "attribute": "Light",
+        "type": "Vaccine",
+        "name": "Imperialdramon PM",
+        "index": 313
+      },
+      "Impmon": {
+        "stage": "Rookie",
+        "name": "Impmon",
+        "attribute": "Dark",
+        "index": 22,
+        "type": "Virus",
+        "imagesrc": "http://digidb.io/images/dot/dot081.png"
+      },
+      "Infermon": {
+        "imagesrc": "http://digidb.io/images/dot/dot627.png",
+        "stage": "Ultimate",
+        "attribute": "Dark",
+        "type": "Free",
+        "index": 146,
+        "name": "Infermon"
+      },
+      "Jesmon": {
+        "name": "Jesmon",
+        "imagesrc": "http://digidb.io/images/dot/dot749.png",
+        "stage": "Mega",
+        "index": 247,
+        "type": "Data",
+        "attribute": "Neutral"
+      },
+      "Justimon": {
+        "imagesrc": "http://digidb.io/images/dot/dot737.png",
+        "stage": "Mega",
+        "attribute": "Light",
+        "type": "Vaccine",
+        "index": 250,
+        "name": "Justimon"
+      },
+      "Kabuterimon": {
+        "index": 82,
+        "name": "Kabuterimon",
+        "stage": "Champion",
+        "type": "Vaccine",
+        "attribute": "Plant",
+        "imagesrc": "http://digidb.io/images/dot/dot304.png"
+      },
+      "KaiserGreymon": {
+        "type": "Free",
+        "attribute": "Fire",
+        "imagesrc": "http://digidb.io/images/dot/dot677.png",
+        "name": "KaiserGreymon",
+        "stage": "Mega",
+        "index": 231
+      },
+      "KendoGarurumon": {
+        "imagesrc": "http://digidb.io/images/dot/dot681.png",
+        "index": 155,
+        "stage": "Ultimate",
+        "type": "Free",
+        "name": "KendoGarurumon",
+        "attribute": "Light"
+      },
+      "Kentaurosmon": {
+        "attribute": "Light",
+        "index": 251,
+        "imagesrc": "http://digidb.io/images/dot/dot086.png",
+        "type": "Vaccine",
+        "name": "Kentaurosmon",
+        "stage": "Mega"
+      },
+      "Keramon": {
+        "imagesrc": "http://digidb.io/images/dot/dot626.png",
+        "stage": "Rookie",
+        "attribute": "Dark",
+        "type": "Free",
+        "index": 31,
+        "name": "Keramon"
+      },
+      "Kerpymon (Blk)": {
+        "stage": "Mega",
+        "name": "Kerpymon (Blk)",
+        "imagesrc": "http://digidb.io/images/dot/dot774.png",
+        "type": "Virus",
+        "attribute": "Dark",
+        "index": 242
+      },
+      "Kerpymon (Good)": {
+        "type": "Vaccine",
+        "attribute": "Light",
+        "imagesrc": "http://digidb.io/images/dot/dot735.png",
+        "name": "Kerpymon (Good)",
+        "stage": "Mega",
+        "index": 243
+      },
+      "KingEtemon": {
+        "imagesrc": "http://digidb.io/images/dot/dot127.png",
+        "stage": "Mega",
+        "index": 235,
+        "type": "Virus",
+        "name": "KingEtemon",
+        "attribute": "Earth"
+      },
+      "Knightmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot718.png",
+        "stage": "Ultimate",
+        "attribute": "Neutral",
+        "type": "Data",
+        "name": "Knightmon",
+        "index": 182
+      },
+      "Koromon": {
+        "attribute": "Fire",
+        "name": "Koromon",
+        "type": "Free",
+        "imagesrc": "http://digidb.io/images/dot/dot322.png",
+        "index": 7,
+        "stage": "In-Training"
+      },
+      "Kudamon": {
+        "imagesrc": "http://digidb.io/images/dot/dot053.png",
+        "stage": "Rookie",
+        "attribute": "Light",
+        "type": "Vaccine",
+        "index": 30,
+        "name": "Kudamon"
+      },
+      "Kuramon": {
+        "index": 1,
+        "stage": "Baby",
+        "name": "Kuramon",
+        "type": "Free",
+        "attribute": "Neutral",
+        "imagesrc": "http://digidb.io/images/dot/dot629.png"
+      },
+      "Kurisarimon": {
+        "stage": "Champion",
+        "imagesrc": "http://digidb.io/images/dot/dot630.png",
+        "name": "Kurisarimon",
+        "index": 89,
+        "type": "Free",
+        "attribute": "Dark"
+      },
+      "Kuwagamon": {
+        "imagesrc": "http://digidb.io/images/dot/dot367.png",
+        "stage": "Champion",
+        "attribute": "Plant",
+        "type": "Virus",
+        "index": 93,
+        "name": "Kuwagamon"
+      },
+      "Kuzuhamon": {
+        "type": "Data",
+        "attribute": "Dark",
+        "imagesrc": "http://digidb.io/images/dot/dot754.png",
+        "name": "Kuzuhamon",
+        "stage": "Mega",
+        "index": 236
+      },
+      "Kyubimon": {
+        "name": "Kyubimon",
+        "stage": "Champion",
+        "attribute": "Fire",
+        "index": 87,
+        "imagesrc": "http://digidb.io/images/dot/dot395.png",
+        "type": "Data"
+      },
+      "LadyDevimon": {
+        "stage": "Ultimate",
+        "name": "LadyDevimon",
+        "imagesrc": "http://digidb.io/images/dot/dot107.png",
+        "index": 214,
+        "type": "Virus",
+        "attribute": "Dark"
+      },
+      "Lalamon": {
+        "attribute": "Plant",
+        "index": 59,
+        "type": "Data",
+        "name": "Lalamon",
+        "imagesrc": "http://digidb.io/images/dot/dot056.png",
+        "stage": "Rookie"
+      },
+      "Lekismon": {
+        "type": "Data",
+        "attribute": "Water",
+        "imagesrc": "http://digidb.io/images/dot/dot003.png",
+        "name": "Lekismon",
+        "stage": "Champion",
+        "index": 138
+      },
+      "Leomon": {
+        "type": "Vaccine",
+        "name": "Leomon",
+        "imagesrc": "http://digidb.io/images/dot/dot072.png",
+        "attribute": "Earth",
+        "index": 137,
+        "stage": "Champion"
+      },
+      "Leopardmon": {
+        "stage": "Mega",
+        "name": "Leopardmon",
+        "imagesrc": "http://digidb.io/images/dot/dot739.png",
+        "type": "Data",
+        "attribute": "Light",
+        "index": 265
+      },
+      "Leopardmon LM": {
+        "index": 266,
+        "stage": "Mega",
+        "name": "Leopardmon LM",
+        "type": "Data",
+        "imagesrc": "http://digidb.io/images/dot/dot743.png",
+        "attribute": "Earth"
+      },
+      "Leopardmon NX": {
+        "stage": "Mega",
+        "name": "Leopardmon NX",
+        "attribute": "Light",
+        "index": 339,
+        "type": "Data",
+        "imagesrc": "http://digidb.io/images/dot/dot903.png"
+      },
+      "Leviamon": {
+        "imagesrc": "http://digidb.io/images/dot/dot037.png",
+        "stage": "Mega",
+        "attribute": "Water",
+        "type": "Virus",
+        "name": "Leviamon",
+        "index": 302
+      },
+      "Lilamon": {
+        "imagesrc": "http://digidb.io/images/dot/dot073.png",
+        "name": "Lilamon",
+        "stage": "Ultimate",
+        "index": 210,
+        "type": "Data",
+        "attribute": "Plant"
+      },
+      "Lilithmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot034.png",
+        "stage": "Mega",
+        "attribute": "Dark",
+        "type": "Virus",
+        "index": 303,
+        "name": "Lilithmon"
+      },
+      "Lillymon": {
+        "index": 212,
+        "stage": "Ultimate",
+        "name": "Lillymon",
+        "type": "Data",
+        "imagesrc": "http://digidb.io/images/dot/dot359.png",
+        "attribute": "Plant"
+      },
+      "Lobomon": {
+        "name": "Lobomon",
+        "index": 73,
+        "stage": "Champion",
+        "type": "Free",
+        "imagesrc": "http://digidb.io/images/dot/dot680.png",
+        "attribute": "Light"
+      },
+      "Lopmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot750.png",
+        "index": 63,
+        "stage": "Rookie",
+        "type": "Data",
+        "name": "Lopmon",
+        "attribute": "Earth"
+      },
+      "Lotosmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot742.png",
+        "stage": "Mega",
+        "attribute": "Plant",
+        "type": "Data",
+        "name": "Lotosmon",
+        "index": 309
+      },
+      "Lucemon": {
+        "imagesrc": "http://digidb.io/images/dot/dot390.png",
+        "stage": "Rookie",
+        "attribute": "Light",
+        "type": "Vaccine",
+        "index": 60,
+        "name": "Lucemon"
+      },
+      "Lucemon FM": {
+        "stage": "Ultimate",
+        "imagesrc": "http://digidb.io/images/dot/dot039.png",
+        "name": "Lucemon FM",
+        "index": 213,
+        "type": "Virus",
+        "attribute": "Neutral"
+      },
+      "Lucemon SM": {
+        "type": "Virus",
+        "attribute": "Dark",
+        "imagesrc": "http://digidb.io/images/dot/dot435.png",
+        "name": "Lucemon SM",
+        "stage": "Ultra",
+        "index": 322
+      },
+      "Lunamon": {
+        "imagesrc": "http://digidb.io/images/dot/dot002.png",
+        "stage": "Rookie",
+        "attribute": "Water",
+        "type": "Data",
+        "name": "Lunamon",
+        "index": 61
+      },
+      "MachGaogamon": {
+        "imagesrc": "http://digidb.io/images/dot/dot074.png",
+        "stage": "Ultimate",
+        "attribute": "Wind",
+        "type": "Data",
+        "index": 198,
+        "name": "MachGaogamon"
+      },
+      "Machinedramon": {
+        "imagesrc": "http://digidb.io/images/dot/dot385.png",
+        "stage": "Mega",
+        "attribute": "Electric",
+        "type": "Virus",
+        "name": "Machinedramon",
+        "index": 294
+      },
+      "MagnaAngemon": {
+        "attribute": "Light",
+        "index": 195,
+        "type": "Vaccine",
+        "imagesrc": "http://digidb.io/images/dot/dot101.png",
+        "name": "MagnaAngemon",
+        "stage": "Ultimate"
+      },
+      "MagnaGarurumon": {
+        "stage": "Mega",
+        "name": "MagnaGarurumon",
+        "imagesrc": "http://digidb.io/images/dot/dot678.png",
+        "type": "Free",
+        "attribute": "Light",
+        "index": 287
+      },
+      "MagnaGarurumon (SV)": {
+        "index": 288,
+        "name": "MagnaGarurumon (SV)",
+        "stage": "Mega",
+        "type": "Free",
+        "imagesrc": "http://digidb.io/images/dot/dot675.png",
+        "attribute": "Light"
+      },
+      "Magnadramon": {
+        "imagesrc": "http://digidb.io/images/dot/dot453.png",
+        "stage": "Mega",
+        "attribute": "Light",
+        "type": "Vaccine",
+        "index": 285,
+        "name": "Magnadramon"
+      },
+      "Magnamon": {
+        "index": 324,
+        "name": "Magnamon",
+        "stage": "Armor",
+        "type": "Free",
+        "imagesrc": "http://digidb.io/images/dot/dot382.png",
+        "attribute": "Earth"
+      },
+      "Mamemon": {
+        "name": "Mamemon",
+        "stage": "Ultimate",
+        "attribute": "Earth",
+        "imagesrc": "http://digidb.io/images/dot/dot412.png",
+        "index": 199,
+        "type": "Data"
+      },
+      "MarineAngemon": {
+        "stage": "Mega",
+        "name": "MarineAngemon",
+        "attribute": "Water",
+        "index": 290,
+        "type": "Vaccine",
+        "imagesrc": "http://digidb.io/images/dot/dot024.png"
+      },
+      "Mastemon": {
+        "imagesrc": "http://digidb.io/images/dot/dot748.png",
+        "name": "Mastemon",
+        "stage": "Mega",
+        "index": 289,
+        "type": "Vaccine",
+        "attribute": "Neutral"
+      },
+      "Matadormon": {
+        "stage": "Ultimate",
+        "name": "Matadormon",
+        "imagesrc": "http://digidb.io/images/dot/dot031.png",
+        "type": "Virus",
+        "attribute": "Dark",
+        "index": 197
+      },
+      "MegaGargomon": {
+        "imagesrc": "http://digidb.io/images/dot/dot741.png",
+        "stage": "Mega",
+        "attribute": "Electric",
+        "type": "Vaccine",
+        "name": "MegaGargomon",
+        "index": 254
+      },
+      "MegaKabuterimon": {
+        "name": "MegaKabuterimon",
+        "imagesrc": "http://digidb.io/images/dot/dot305.png",
+        "stage": "Ultimate",
+        "index": 141,
+        "type": "Vaccine",
+        "attribute": "Plant"
+      },
+      "MegaSeadramon": {
+        "imagesrc": "http://digidb.io/images/dot/dot132.png",
+        "stage": "Ultimate",
+        "index": 200,
+        "type": "Data",
+        "name": "MegaSeadramon",
+        "attribute": "Water"
+      },
+      "Megadramon": {
+        "imagesrc": "http://digidb.io/images/dot/dot301.png",
+        "stage": "Ultimate",
+        "attribute": "Wind",
+        "type": "Virus",
+        "index": 201,
+        "name": "Megadramon"
+      },
+      "Megidramon": {
+        "type": "Virus",
+        "attribute": "Fire",
+        "imagesrc": "http://digidb.io/images/dot/dot047.png",
+        "name": "Megidramon",
+        "stage": "Mega",
+        "index": 295
+      },
+      "Meramon": {
+        "stage": "Champion",
+        "name": "Meramon",
+        "attribute": "Fire",
+        "index": 131,
+        "type": "Data",
+        "imagesrc": "http://digidb.io/images/dot/dot010.png"
+      },
+      "Merukimon": {
+        "imagesrc": "http://digidb.io/images/dot/dot080.png",
+        "stage": "Mega",
+        "attribute": "Wind",
+        "type": "Virus",
+        "index": 300,
+        "name": "Merukimon"
+      },
+      "MetalEtemon": {
+        "type": "Virus",
+        "attribute": "Earth",
+        "imagesrc": "http://digidb.io/images/dot/dot312.png",
+        "name": "MetalEtemon",
+        "stage": "Mega",
+        "index": 296
+      },
+      "MetalGarurumon": {
+        "index": 297,
+        "name": "MetalGarurumon",
+        "stage": "Mega",
+        "type": "Data",
+        "attribute": "Water",
+        "imagesrc": "http://digidb.io/images/dot/dot135.png"
+      },
+      "MetalGarurumon (Blk)": {
+        "imagesrc": "http://digidb.io/images/dot/dot182.png",
+        "stage": "Mega",
+        "attribute": "Electric",
+        "type": "Virus",
+        "index": 298,
+        "name": "MetalGarurumon (Blk)"
+      },
+      "MetalGreymon": {
+        "imagesrc": "http://digidb.io/images/dot/dot302.png",
+        "index": 203,
+        "stage": "Ultimate",
+        "type": "Vaccine",
+        "name": "MetalGreymon",
+        "attribute": "Fire"
+      },
+      "MetalGreymon (Blue)": {
+        "imagesrc": "http://digidb.io/images/dot/dot327.png",
+        "stage": "Ultimate",
+        "attribute": "Fire",
+        "type": "Virus",
+        "index": 204,
+        "name": "MetalGreymon (Blue)"
+      },
+      "MetalMamemon": {
+        "index": 206,
+        "stage": "Ultimate",
+        "name": "MetalMamemon",
+        "type": "Data",
+        "attribute": "Electric",
+        "imagesrc": "http://digidb.io/images/dot/dot413.png"
+      },
+      "MetalSeadramon": {
+        "imagesrc": "http://digidb.io/images/dot/dot434.png",
+        "stage": "Mega",
+        "attribute": "Water",
+        "type": "Data",
+        "index": 299,
+        "name": "MetalSeadramon"
+      },
+      "MetalTyrannomon": {
+        "stage": "Ultimate",
+        "name": "MetalTyrannomon",
+        "imagesrc": "http://digidb.io/images/dot/dot364.png",
+        "type": "Virus",
+        "attribute": "Electric",
+        "index": 205
+      },
+      "Meteormon": {
+        "type": "Data",
+        "attribute": "Earth",
+        "imagesrc": "http://digidb.io/images/dot/dot756.png",
+        "name": "Meteormon",
+        "stage": "Ultimate",
+        "index": 145
+      },
+      "Minervamon": {
+        "imagesrc": "http://digidb.io/images/dot/dot747.png",
+        "stage": "Mega",
+        "attribute": "Neutral",
+        "type": "Virus",
+        "name": "Minervamon",
+        "index": 291
+      },
+      "MirageGaogamon": {
+        "imagesrc": "http://digidb.io/images/dot/dot095.png",
+        "name": "MirageGaogamon",
+        "stage": "Mega",
+        "index": 292,
+        "type": "Data",
+        "attribute": "Wind"
+      },
+      "MirageGaogamon BM": {
+        "name": "MirageGaogamon BM",
+        "index": 293,
+        "stage": "Mega",
+        "type": "Data",
+        "imagesrc": "http://digidb.io/images/dot/dot777.png",
+        "attribute": "Light"
+      },
+      "Monochromon": {
+        "imagesrc": "http://digidb.io/images/dot/dot369.png",
+        "stage": "Champion",
+        "attribute": "Earth",
+        "type": "Data",
+        "name": "Monochromon",
+        "index": 132
+      },
+      "Monodramon": {
+        "imagesrc": "http://digidb.io/images/dot/dot458.png",
+        "stage": "Rookie",
+        "attribute": "Neutral",
+        "type": "Vaccine",
+        "index": 58,
+        "name": "Monodramon"
+      },
+      "Monzaemon": {
+        "index": 207,
+        "imagesrc": "http://digidb.io/images/dot/dot061.png",
+        "name": "Monzaemon",
+        "stage": "Ultimate",
+        "attribute": "Neutral",
+        "type": "Vaccine"
+      },
+      "Motimon": {
+        "stage": "In-Training",
+        "name": "Motimon",
+        "attribute": "Neutral",
+        "index": 16,
+        "type": "Free",
+        "imagesrc": "http://digidb.io/images/dot/dot388.png"
+      },
+      "MudFrigimon": {
+        "attribute": "Earth",
+        "imagesrc": "http://digidb.io/images/dot/dot759.png",
+        "name": "MudFrigimon",
+        "type": "Data",
+        "index": 113,
+        "stage": "Champion"
+      },
+      "Mushroomon": {
+        "imagesrc": "http://digidb.io/images/dot/dot607.png",
+        "stage": "Rookie",
+        "name": "Mushroomon",
+        "index": 57,
+        "type": "Virus",
+        "attribute": "Plant"
+      },
+      "Myotismon": {
+        "imagesrc": "http://digidb.io/images/dot/dot085.png",
+        "stage": "Ultimate",
+        "attribute": "Dark",
+        "type": "Virus",
+        "index": 147,
+        "name": "Myotismon"
+      },
+      "Nanimon": {
+        "stage": "Champion",
+        "imagesrc": "http://digidb.io/images/dot/dot375.png",
+        "name": "Nanimon",
+        "index": 120,
+        "type": "Virus",
+        "attribute": "Earth"
+      },
+      "Neptunemon": {
+        "index": 268,
+        "stage": "Mega",
+        "name": "Neptunemon",
+        "type": "Vaccine",
+        "imagesrc": "http://digidb.io/images/dot/dot075.png",
+        "attribute": "Water"
+      },
+      "Numemon": {
+        "imagesrc": "http://digidb.io/images/dot/dot070.png",
+        "stage": "Champion",
+        "attribute": "Earth",
+        "type": "Virus",
+        "name": "Numemon",
+        "index": 121
+      },
+      "Nyaromon": {
+        "index": 12,
+        "imagesrc": "http://digidb.io/images/dot/dot515.png",
+        "name": "Nyaromon",
+        "stage": "In-Training",
+        "attribute": "Light",
+        "type": "Free"
+      },
+      "Ogremon": {
+        "index": 78,
+        "stage": "Champion",
+        "name": "Ogremon",
+        "type": "Virus",
+        "attribute": "Earth",
+        "imagesrc": "http://digidb.io/images/dot/dot394.png"
+      },
+      "Okuwamon": {
+        "type": "Virus",
+        "attribute": "Plant",
+        "imagesrc": "http://digidb.io/images/dot/dot401.png",
+        "name": "Okuwamon",
+        "stage": "Ultimate",
+        "index": 153
+      },
+      "OmniShoutmon": {
+        "stage": "None",
+        "name": "OmniShoutmon",
+        "attribute": "Fire",
+        "index": 327,
+        "type": "Free",
+        "imagesrc": "http://digidb.io/images/dot/dot683.png"
+      },
+      "Omnimon": {
+        "imagesrc": "http://digidb.io/images/dot/dot088.png",
+        "stage": "Ultra",
+        "attribute": "Light",
+        "type": "Vaccine",
+        "index": 315,
+        "name": "Omnimon"
+      },
+      "Omnimon NX": {
+        "index": 340,
+        "name": "Omnimon NX",
+        "stage": "Mega",
+        "type": "Vaccine",
+        "attribute": "Light",
+        "imagesrc": "http://digidb.io/images/dot/dot904.png"
+      },
+      "Omnimon Zwart": {
+        "attribute": "Dark",
+        "type": "Vaccine",
+        "index": 316,
+        "imagesrc": "http://digidb.io/images/dot/dot757.png",
+        "name": "Omnimon Zwart",
+        "stage": "Ultra"
+      },
+      "Ophanimon": {
+        "type": "Vaccine",
+        "attribute": "Light",
+        "imagesrc": "http://digidb.io/images/dot/dot421.png",
+        "name": "Ophanimon",
+        "stage": "Mega",
+        "index": 229
+      },
+      "Otamamon": {
+        "stage": "Rookie",
+        "index": 24,
+        "type": "Virus",
+        "attribute": "Water",
+        "name": "Otamamon",
+        "imagesrc": "http://digidb.io/images/dot/dot582.png"
+      },
+      "Ouryumon": {
+        "stage": "Mega",
+        "name": "Ouryumon",
+        "imagesrc": "http://digidb.io/images/dot/dot193.png",
+        "type": "Vaccine",
+        "attribute": "Neutral",
+        "index": 331
+      },
+      "Pabumon": {
+        "imagesrc": "http://digidb.io/images/dot/dot387.png",
+        "stage": "Baby",
+        "attribute": "Neutral",
+        "type": "Free",
+        "name": "Pabumon",
+        "index": 2
+      },
+      "Pagumon": {
+        "stage": "In-Training",
+        "name": "Pagumon",
+        "attribute": "Dark",
+        "index": 13,
+        "type": "Free",
+        "imagesrc": "http://digidb.io/images/dot/dot567.png"
+      },
+      "Paildramon": {
+        "type": "Free",
+        "attribute": "Neutral",
+        "imagesrc": "http://digidb.io/images/dot/dot408.png",
+        "name": "Paildramon",
+        "stage": "Ultimate",
+        "index": 184
+      },
+      "Palmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot348.png",
+        "stage": "Rookie",
+        "index": 48,
+        "name": "Palmon",
+        "type": "Data",
+        "attribute": "Plant"
+      },
+      "Pandamon": {
+        "attribute": "Earth",
+        "name": "Pandamon",
+        "index": 186,
+        "type": "Data",
+        "imagesrc": "http://digidb.io/images/dot/dot041.png",
+        "stage": "Ultimate"
+      },
+      "Panjyamon": {
+        "imagesrc": "http://digidb.io/images/dot/dot409.png",
+        "name": "Panjyamon",
+        "stage": "Ultimate",
+        "index": 185,
+        "type": "Vaccine",
+        "attribute": "Water"
+      },
+      "Patamon": {
+        "imagesrc": "http://digidb.io/images/dot/dot096.png",
+        "stage": "Rookie",
+        "attribute": "Wind",
+        "type": "Data",
+        "index": 46,
+        "name": "Patamon"
+      },
+      "Peckmon": {
+        "name": "Peckmon",
+        "stage": "Champion",
+        "imagesrc": "http://digidb.io/images/dot/dot702.png",
+        "index": 130,
+        "type": "Vaccine",
+        "attribute": "Wind"
+      },
+      "Phantomon": {
+        "imagesrc": "http://digidb.io/images/dot/dot584.png",
+        "stage": "Ultimate",
+        "attribute": "Dark",
+        "type": "Virus",
+        "index": 190,
+        "name": "Phantomon"
+      },
+      "Piedmon": {
+        "index": 273,
+        "stage": "Mega",
+        "name": "Piedmon",
+        "type": "Virus",
+        "imagesrc": "http://digidb.io/images/dot/dot427.png",
+        "attribute": "Dark"
+      },
+      "PileVolcamon": {
+        "attribute": "Fire",
+        "index": 270,
+        "type": "Data",
+        "imagesrc": "http://digidb.io/images/dot/dot060.png",
+        "name": "PileVolcamon",
+        "stage": "Mega"
+      },
+      "Piximon": {
+        "type": "Data",
+        "attribute": "Light",
+        "imagesrc": "http://digidb.io/images/dot/dot410.png",
+        "name": "Piximon",
+        "stage": "Ultimate",
+        "index": 188
+      },
+      "PlatinumNumemon": {
+        "stage": "Mega",
+        "index": 275,
+        "type": "Virus",
+        "attribute": "Neutral",
+        "imagesrc": "http://digidb.io/images/dot/dot069.png",
+        "name": "PlatinumNumemon"
+      },
+      "PlatinumSukamon": {
+        "stage": "Champion",
+        "name": "PlatinumSukamon",
+        "imagesrc": "http://digidb.io/images/dot/dot752.png",
+        "type": "Virus",
+        "attribute": "Neutral",
+        "index": 127
+      },
+      "Plesiomon": {
+        "imagesrc": "http://digidb.io/images/dot/dot450.png",
+        "stage": "Mega",
+        "attribute": "Water",
+        "type": "Data",
+        "name": "Plesiomon",
+        "index": 279
+      },
+      "Poyomon": {
+        "imagesrc": "http://digidb.io/images/dot/dot320.png",
+        "stage": "Baby",
+        "attribute": "Neutral",
+        "type": "Free",
+        "index": 5,
+        "name": "Poyomon"
+      },
+      "PrinceMamemon": {
+        "index": 277,
+        "name": "PrinceMamemon",
+        "stage": "Mega",
+        "type": "Data",
+        "imagesrc": "http://digidb.io/images/dot/dot429.png",
+        "attribute": "Neutral"
+      },
+      "Pumpkinmon": {
+        "name": "Pumpkinmon",
+        "index": 187,
+        "stage": "Ultimate",
+        "type": "Data",
+        "imagesrc": "http://digidb.io/images/dot/dot596.png",
+        "attribute": "Earth"
+      },
+      "Punimon": {
+        "attribute": "Neutral",
+        "index": 3,
+        "name": "Punimon",
+        "type": "Free",
+        "imagesrc": "http://digidb.io/images/dot/dot437.png",
+        "stage": "Baby"
+      },
+      "Puppetmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot428.png",
+        "stage": "Mega",
+        "attribute": "Plant",
+        "type": "Virus",
+        "index": 274,
+        "name": "Puppetmon"
+      },
+      "Rapidmon": {
+        "index": 211,
+        "name": "Rapidmon",
+        "stage": "Ultimate",
+        "type": "Vaccine",
+        "attribute": "Electric",
+        "imagesrc": "http://digidb.io/images/dot/dot722.png"
+      },
+      "Rapidmon (Armor)": {
+        "stage": "Armor",
+        "name": "Rapidmon (Armor)",
+        "imagesrc": "http://digidb.io/images/dot/dot751.png",
+        "type": "Vaccine",
+        "attribute": "Light",
+        "index": 325
+      },
+      "Raptordramon": {
+        "stage": "Champion",
+        "index": 135,
+        "type": "Vaccine",
+        "attribute": "Neutral",
+        "name": "Raptordramon",
+        "imagesrc": "http://digidb.io/images/dot/dot025.png"
+      },
+      "Raremon": {
+        "index": 136,
+        "stage": "Champion",
+        "name": "Raremon",
+        "type": "Virus",
+        "attribute": "Earth",
+        "imagesrc": "http://digidb.io/images/dot/dot590.png"
+      },
+      "Ravemon": {
+        "name": "Ravemon",
+        "imagesrc": "http://digidb.io/images/dot/dot740.png",
+        "stage": "Mega",
+        "index": 304,
+        "type": "Vaccine",
+        "attribute": "Wind"
+      },
+      "Ravemon BM": {
+        "stage": "Mega",
+        "index": 305,
+        "type": "Vaccine",
+        "attribute": "Wind",
+        "name": "Ravemon BM",
+        "imagesrc": "http://digidb.io/images/dot/dot778.png"
+      },
+      "Renamon": {
+        "stage": "Rookie",
+        "name": "Renamon",
+        "attribute": "Plant",
+        "index": 62,
+        "type": "Data",
+        "imagesrc": "http://digidb.io/images/dot/dot391.png"
+      },
+      "Reppamon": {
+        "type": "Vaccine",
+        "attribute": "Light",
+        "imagesrc": "http://digidb.io/images/dot/dot077.png",
+        "name": "Reppamon",
+        "stage": "Champion",
+        "index": 139
+      },
+      "RizeGreymon": {
+        "imagesrc": "http://digidb.io/images/dot/dot071.png",
+        "stage": "Ultimate",
+        "index": 209,
+        "type": "Vaccine",
+        "name": "RizeGreymon",
+        "attribute": "Fire"
+      },
+      "Rosemon": {
+        "imagesrc": "http://digidb.io/images/dot/dot057.png",
+        "stage": "Mega",
+        "attribute": "Plant",
+        "type": "Data",
+        "index": 307,
+        "name": "Rosemon"
+      },
+      "Rosemon BM": {
+        "name": "Rosemon BM",
+        "index": 308,
+        "stage": "Mega",
+        "type": "Data",
+        "imagesrc": "http://digidb.io/images/dot/dot779.png",
+        "attribute": "Plant"
+      },
+      "RustTyranomon": {
+        "imagesrc": "http://digidb.io/images/dot/dot383.png",
+        "index": 301,
+        "stage": "Mega",
+        "name": "RustTyranomon",
+        "type": "Virus",
+        "attribute": "Electric"
+      },
+      "Ryudamon": {
+        "imagesrc": "http://digidb.io/images/dot/dot190.png",
+        "stage": "Rookie",
+        "attribute": "Neutral",
+        "type": "Vaccine",
+        "name": "Ryudamon",
+        "index": 328
+      },
+      "SaberLeomon": {
+        "imagesrc": "http://digidb.io/images/dot/dot424.png",
+        "stage": "Mega",
+        "attribute": "Wind",
+        "type": "Data",
+        "index": 245,
+        "name": "SaberLeomon"
+      },
+      "Sakuyamon": {
+        "stage": "Mega",
+        "imagesrc": "http://digidb.io/images/dot/dot425.png",
+        "name": "Sakuyamon",
+        "index": 246,
+        "type": "Data",
+        "attribute": "Light"
+      },
+      "Salamon": {
+        "type": "Vaccine",
+        "attribute": "Light",
+        "imagesrc": "http://digidb.io/images/dot/dot361.png",
+        "name": "Salamon",
+        "stage": "Rookie",
+        "index": 54
+      },
+      "Sangloupmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot030.png",
+        "stage": "Champion",
+        "attribute": "Dark",
+        "type": "Virus",
+        "name": "Sangloupmon",
+        "index": 101
+      },
+      "SaviorHuckmon": {
+        "name": "SaviorHuckmon",
+        "stage": "Ultimate",
+        "attribute": "Fire",
+        "index": 171,
+        "imagesrc": "http://digidb.io/images/dot/dot116.png",
+        "type": "Data"
+      },
+      "Seadramon": {
+        "imagesrc": "http://digidb.io/images/dot/dot347.png",
+        "stage": "Champion",
+        "attribute": "Water",
+        "type": "Data",
+        "name": "Seadramon",
+        "index": 103
+      },
+      "Seraphimon": {
+        "imagesrc": "http://digidb.io/images/dot/dot315.png",
+        "stage": "Mega",
+        "attribute": "Light",
+        "type": "Vaccine",
+        "index": 253,
+        "name": "Seraphimon"
+      },
+      "Shakkoumon": {
+        "name": "Shakkoumon",
+        "imagesrc": "http://digidb.io/images/dot/dot723.png",
+        "stage": "Ultimate",
+        "index": 164,
+        "type": "Free",
+        "attribute": "Light"
+      },
+      "ShellNumemon": {
+        "index": 83,
+        "name": "ShellNumemon",
+        "stage": "Champion",
+        "type": "Virus",
+        "imagesrc": "http://digidb.io/images/dot/dot455.png",
+        "attribute": "Water"
+      },
+      "ShineGreymon": {
+        "imagesrc": "http://digidb.io/images/dot/dot094.png",
+        "stage": "Mega",
+        "attribute": "Light",
+        "type": "Vaccine",
+        "name": "ShineGreymon",
+        "index": 248
+      },
+      "ShineGreymon BM": {
+        "index": 249,
+        "imagesrc": "http://digidb.io/images/dot/dot776.png",
+        "stage": "Mega",
+        "name": "ShineGreymon BM",
+        "attribute": "Fire",
+        "type": "Vaccine"
+      },
+      "ShogunGekomon": {
+        "stage": "Ultimate",
+        "name": "ShogunGekomon",
+        "imagesrc": "http://digidb.io/images/dot/dot376.png",
+        "type": "Virus",
+        "attribute": "Water",
+        "index": 179
+      },
+      "Shoutmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot682.png",
+        "stage": "None",
+        "attribute": "Fire",
+        "type": "Free",
+        "index": 326,
+        "name": "Shoutmon"
+      },
+      "Silphymon": {
+        "stage": "Ultimate",
+        "name": "Silphymon",
+        "imagesrc": "http://digidb.io/images/dot/dot720.png",
+        "index": 166,
+        "type": "Free",
+        "attribute": "Wind"
+      },
+      "Sistermon B (Awake.)": {
+        "name": "Sistermon B (Awake.)",
+        "stage": "Rookie",
+        "attribute": "Light",
+        "index": 334,
+        "imagesrc": "http://digidb.io/images/dot/dot782.png",
+        "type": "Vaccine"
+      },
+      "Sistermon Blanc": {
+        "imagesrc": "http://digidb.io/images/dot/dot781.png",
+        "stage": "Rookie",
+        "attribute": "Light",
+        "type": "Vaccine",
+        "index": 333,
+        "name": "Sistermon Blanc"
+      },
+      "Sistermon C (Awake.)": {
+        "index": 336,
+        "stage": "Champion",
+        "name": "Sistermon C (Awake.)",
+        "type": "Virus",
+        "attribute": "Light",
+        "imagesrc": "http://digidb.io/images/dot/dot784.png"
+      },
+      "Sistermon Ciel": {
+        "stage": "Champion",
+        "name": "Sistermon Ciel",
+        "attribute": "Light",
+        "index": 335,
+        "type": "Virus",
+        "imagesrc": "http://digidb.io/images/dot/dot783.png"
+      },
+      "SkullGreymon": {
+        "name": "SkullGreymon",
+        "imagesrc": "http://digidb.io/images/dot/dot404.png",
+        "stage": "Ultimate",
+        "index": 168,
+        "type": "Virus",
+        "attribute": "Dark"
+      },
+      "SkullMeramon": {
+        "stage": "Ultimate",
+        "index": 177,
+        "type": "Data",
+        "attribute": "Fire",
+        "name": "SkullMeramon",
+        "imagesrc": "http://digidb.io/images/dot/dot406.png"
+      },
+      "SkullSatamon": {
+        "stage": "Ultimate",
+        "name": "SkullSatamon",
+        "attribute": "Dark",
+        "index": 169,
+        "type": "Virus",
+        "imagesrc": "http://digidb.io/images/dot/dot006.png"
+      },
+      "Slayerdramon": {
+        "type": "Vaccine",
+        "attribute": "Wind",
+        "imagesrc": "http://digidb.io/images/dot/dot213.png",
+        "name": "Slayerdramon",
+        "stage": "Mega",
+        "index": 252
+      },
+      "Socerimon": {
+        "imagesrc": "http://digidb.io/images/dot/dot755.png",
+        "stage": "Champion",
+        "index": 111,
+        "type": "Vaccine",
+        "name": "Socerimon",
+        "attribute": "Water"
+      },
+      "Solarmon": {
+        "attribute": "Light",
+        "name": "Solarmon",
+        "index": 37,
+        "type": "Vaccine",
+        "imagesrc": "http://digidb.io/images/dot/dot728.png",
+        "stage": "Rookie"
+      },
+      "Starmon": {
+        "name": "Starmon",
+        "stage": "Champion",
+        "imagesrc": "http://digidb.io/images/dot/dot014.png",
+        "index": 107,
+        "type": "Data",
+        "attribute": "Neutral"
+      },
+      "Stingmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot091.png",
+        "stage": "Champion",
+        "attribute": "Plant",
+        "type": "Free",
+        "name": "Stingmon",
+        "index": 108
+      },
+      "Strikedramon": {
+        "name": "Strikedramon",
+        "stage": "Champion",
+        "imagesrc": "http://digidb.io/images/dot/dot016.png",
+        "index": 109,
+        "type": "Vaccine",
+        "attribute": "Earth"
+      },
+      "Sukamon": {
+        "stage": "Champion",
+        "index": 106,
+        "type": "Virus",
+        "attribute": "Earth",
+        "name": "Sukamon",
+        "imagesrc": "http://digidb.io/images/dot/dot313.png"
+      },
+      "Sunflowmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot058.png",
+        "index": 102,
+        "stage": "Champion",
+        "name": "Sunflowmon",
+        "type": "Data",
+        "attribute": "Plant"
+      },
+      "SuperStarmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot079.png",
+        "stage": "Ultimate",
+        "attribute": "Light",
+        "type": "Data",
+        "name": "SuperStarmon",
+        "index": 167
+      },
+      "Susanomon": {
+        "imagesrc": "http://digidb.io/images/dot/dot104.png",
+        "stage": "Ultra",
+        "attribute": "Light",
+        "type": "Vaccine",
+        "index": 319,
+        "name": "Susanomon"
+      },
+      "Syakomon": {
+        "index": 35,
+        "stage": "Rookie",
+        "name": "Syakomon",
+        "type": "Virus",
+        "imagesrc": "http://digidb.io/images/dot/dot709.png",
+        "attribute": "Water"
+      },
+      "Tanemon": {
+        "attribute": "Plant",
+        "index": 8,
+        "name": "Tanemon",
+        "type": "Free",
+        "imagesrc": "http://digidb.io/images/dot/dot512.png",
+        "stage": "In-Training"
+      },
+      "Tankmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot621.png",
+        "stage": "Champion",
+        "attribute": "Electric",
+        "type": "Data",
+        "name": "Tankmon",
+        "index": 112
+      },
+      "Taomon": {
+        "imagesrc": "http://digidb.io/images/dot/dot405.png",
+        "stage": "Ultimate",
+        "attribute": "Dark",
+        "type": "Data",
+        "index": 172,
+        "name": "Taomon"
+      },
+      "Tentomon": {
+        "attribute": "Plant",
+        "index": 40,
+        "name": "Tentomon",
+        "type": "Vaccine",
+        "imagesrc": "http://digidb.io/images/dot/dot303.png",
+        "stage": "Rookie"
+      },
+      "Terriermon": {
+        "type": "Vaccine",
+        "attribute": "Wind",
+        "imagesrc": "http://digidb.io/images/dot/dot701.png",
+        "name": "Terriermon",
+        "stage": "Rookie",
+        "index": 39
+      },
+      "TigerVespamon": {
+        "imagesrc": "http://digidb.io/images/dot/dot745.png",
+        "stage": "Mega",
+        "attribute": "Electric",
+        "type": "Virus",
+        "index": 256,
+        "name": "TigerVespamon"
+      },
+      "Titamon": {
+        "index": 257,
+        "stage": "Mega",
+        "name": "Titamon",
+        "type": "Virus",
+        "imagesrc": "http://digidb.io/images/dot/dot440.png",
+        "attribute": "Earth"
+      },
+      "Togemon": {
+        "imagesrc": "http://digidb.io/images/dot/dot349.png",
+        "stage": "Champion",
+        "attribute": "Plant",
+        "type": "Data",
+        "index": 118,
+        "name": "Togemon"
+      },
+      "Tokomon": {
+        "index": 11,
+        "name": "Tokomon",
+        "stage": "In-Training",
+        "type": "Free",
+        "attribute": "Neutral",
+        "imagesrc": "http://digidb.io/images/dot/dot325.png"
+      },
+      "ToyAgumon": {
+        "name": "ToyAgumon",
+        "index": 41,
+        "stage": "Rookie",
+        "type": "Vaccine",
+        "imagesrc": "http://digidb.io/images/dot/dot708.png",
+        "attribute": "Neutral"
+      },
+      "Triceramon": {
+        "imagesrc": "http://digidb.io/images/dot/dot033.png",
+        "stage": "Ultimate",
+        "index": 180,
+        "type": "Data",
+        "name": "Triceramon",
+        "attribute": "Earth"
+      },
+      "Tsumemon": {
+        "name": "Tsumemon",
+        "stage": "In-Training",
+        "attribute": "Dark",
+        "index": 10,
+        "imagesrc": "http://digidb.io/images/dot/dot631.png",
+        "type": "Free"
+      },
+      "Tsunomon": {
+        "imagesrc": "http://digidb.io/images/dot/dot438.png",
+        "stage": "In-Training",
+        "attribute": "Earth",
+        "type": "Free",
+        "index": 9,
+        "name": "Tsunomon"
+      },
+      "Turuiemon": {
+        "index": 117,
+        "name": "Turuiemon",
+        "stage": "Champion",
+        "type": "Data",
+        "imagesrc": "http://digidb.io/images/dot/dot102.png",
+        "attribute": "Earth"
+      },
+      "Tyrannomon": {
+        "imagesrc": "http://digidb.io/images/dot/dot363.png",
+        "stage": "Champion",
+        "attribute": "Fire",
+        "type": "Data",
+        "index": 114,
+        "name": "Tyrannomon"
+      },
+      "TyrantKabuterimon": {
+        "index": 258,
+        "stage": "Mega",
+        "name": "TyrantKabuterimon",
+        "type": "Virus",
+        "imagesrc": "http://digidb.io/images/dot/dot128.png",
+        "attribute": "Plant"
+      },
+      "UlforceVeedramon": {
+        "index": 220,
+        "imagesrc": "http://digidb.io/images/dot/dot417.png",
+        "name": "UlforceVeedramon",
+        "stage": "Mega",
+        "attribute": "Wind",
+        "type": "Vaccine"
+      },
+      "Unimon": {
+        "imagesrc": "http://digidb.io/images/dot/dot548.png",
+        "stage": "Champion",
+        "attribute": "Wind",
+        "type": "Vaccine",
+        "name": "Unimon",
+        "index": 134
+      },
+      "Vademon": {
+        "name": "Vademon",
+        "index": 193,
+        "stage": "Ultimate",
+        "type": "Virus",
+        "imagesrc": "http://digidb.io/images/dot/dot411.png",
+        "attribute": "Dark"
+      },
+      "Valkyrimon": {
+        "type": "Free",
+        "attribute": "Wind",
+        "imagesrc": "http://digidb.io/images/dot/dot773.png",
+        "name": "Valkyrimon",
+        "stage": "Mega",
+        "index": 225
+      },
+      "Varodurumon": {
+        "index": 226,
+        "stage": "Mega",
+        "name": "Varodurumon",
+        "type": "Vaccine",
+        "attribute": "Light",
+        "imagesrc": "http://digidb.io/images/dot/dot117.png"
+      },
+      "Veedramon": {
+        "type": "Vaccine",
+        "attribute": "Wind",
+        "imagesrc": "http://digidb.io/images/dot/dot397.png",
+        "name": "Veedramon",
+        "stage": "Champion",
+        "index": 125
+      },
+      "Veemon": {
+        "imagesrc": "http://digidb.io/images/dot/dot114.png",
+        "stage": "Rookie",
+        "index": 53,
+        "type": "Free",
+        "name": "Veemon",
+        "attribute": "Neutral"
+      },
+      "Vegiemon": {
+        "imagesrc": "http://digidb.io/images/dot/dot314.png",
+        "stage": "Champion",
+        "attribute": "Plant",
+        "type": "Virus",
+        "name": "Vegiemon",
+        "index": 129
+      },
+      "VenomMyotismon": {
+        "imagesrc": "http://digidb.io/images/dot/dot600.png",
+        "stage": "Mega",
+        "attribute": "Dark",
+        "type": "Virus",
+        "index": 227,
+        "name": "VenomMyotismon"
+      },
+      "Vikemon": {
+        "stage": "Mega",
+        "name": "Vikemon",
+        "imagesrc": "http://digidb.io/images/dot/dot346.png",
+        "index": 224,
+        "type": "Free",
+        "attribute": "Water"
+      },
+      "Volcanomon": {
+        "stage": "Ultimate",
+        "index": 196,
+        "type": "Data",
+        "attribute": "Fire",
+        "name": "Volcanomon",
+        "imagesrc": "http://digidb.io/images/dot/dot059.png"
+      },
+      "Wanyamon": {
+        "attribute": "Wind",
+        "type": "Free",
+        "index": 17,
+        "name": "Wanyamon",
+        "imagesrc": "http://digidb.io/images/dot/dot321.png",
+        "stage": "In-Training"
+      },
+      "WarGreymon": {
+        "name": "WarGreymon",
+        "imagesrc": "http://digidb.io/images/dot/dot027.png",
+        "stage": "Mega",
+        "index": 228,
+        "type": "Vaccine",
+        "attribute": "Fire"
+      },
+      "WarGrowlmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot134.png",
+        "stage": "Ultimate",
+        "attribute": "Fire",
+        "type": "Virus",
+        "name": "WarGrowlmon",
+        "index": 202
+      },
+      "Waspmon": {
+        "index": 140,
+        "imagesrc": "http://digidb.io/images/dot/dot454.png",
+        "name": "Waspmon",
+        "stage": "Champion",
+        "attribute": "Electric",
+        "type": "Virus"
+      },
+      "WereGarurumon": {
+        "stage": "Ultimate",
+        "name": "WereGarurumon",
+        "imagesrc": "http://digidb.io/images/dot/dot140.png",
+        "type": "Vaccine",
+        "attribute": "Earth",
+        "index": 215
+      },
+      "WereGarurumon (Blk)": {
+        "attribute": "Earth",
+        "index": 216,
+        "type": "Virus",
+        "imagesrc": "http://digidb.io/images/dot/dot715.png",
+        "name": "WereGarurumon (Blk)",
+        "stage": "Ultimate"
+      },
+      "Whamon": {
+        "attribute": "Water",
+        "imagesrc": "http://digidb.io/images/dot/dot021.png",
+        "name": "Whamon",
+        "index": 194,
+        "type": "Vaccine",
+        "stage": "Ultimate"
+      },
+      "Wingdramon": {
+        "name": "Wingdramon",
+        "type": "Vaccine",
+        "imagesrc": "http://digidb.io/images/dot/dot210.png",
+        "attribute": "Wind",
+        "index": 148,
+        "stage": "Ultimate"
+      },
+      "Wisemon": {
+        "stage": "Ultimate",
+        "name": "Wisemon",
+        "imagesrc": "http://digidb.io/images/dot/dot726.png",
+        "type": "Virus",
+        "attribute": "Dark",
+        "index": 217
+      },
+      "Wizardmon": {
+        "name": "Wizardmon",
+        "index": 72,
+        "stage": "Champion",
+        "type": "Data",
+        "imagesrc": "http://digidb.io/images/dot/dot377.png",
+        "attribute": "Dark"
+      },
+      "Woodmon": {
+        "imagesrc": "http://digidb.io/images/dot/dot393.png",
+        "stage": "Champion",
+        "attribute": "Plant",
+        "type": "Virus",
+        "name": "Woodmon",
+        "index": 74
+      },
+      "Wormmon": {
+        "name": "Wormmon",
+        "index": 64,
+        "stage": "Rookie",
+        "type": "Free",
+        "imagesrc": "http://digidb.io/images/dot/dot392.png",
+        "attribute": "Plant"
+      },
+      "Yokomon": {
+        "type": "Free",
+        "attribute": "Plant",
+        "imagesrc": "http://digidb.io/images/dot/dot510.png",
+        "name": "Yokomon",
+        "stage": "In-Training",
+        "index": 14
+      },
+      "Zubaeagermon": {
+        "index": 110,
+        "stage": "Champion",
+        "name": "Zubaeagermon",
+        "type": "Vaccine",
+        "attribute": "Neutral",
+        "imagesrc": "http://digidb.io/images/dot/dot698.png"
+      },
+      "Zubamon": {
+        "imagesrc": "http://digidb.io/images/dot/dot697.png",
+        "stage": "Rookie",
+        "attribute": "Neutral",
+        "type": "Vaccine",
+        "index": 36,
+        "name": "Zubamon"
+      },
+      "Zudomon": {
+        "index": 170,
+        "name": "Zudomon",
+        "stage": "Ultimate",
+        "type": "Vaccine",
+        "imagesrc": "http://digidb.io/images/dot/dot345.png",
+        "attribute": "Water"
+      }
+    }
+  }

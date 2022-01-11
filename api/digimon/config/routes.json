@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/digimons",
+      "handler": "digimon.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/digimons/count",
+      "handler": "digimon.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/digimons/:id",
+      "handler": "digimon.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/digimons",
+      "handler": "digimon.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/digimons/:id",
+      "handler": "digimon.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/digimons/:id",
+      "handler": "digimon.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

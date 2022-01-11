@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "digimons",
+  "info": {
+    "name": "digimon"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "Index": {
+      "type": "integer"
+    },
+    "Stage": {
+      "type": "string"
+    },
+    "Type": {
+      "type": "string"
+    },
+    "Attribute": {
+      "type": "string"
+    },
+    "Imagesrc": {
+      "type": "string"
+    }
+  }
+}
