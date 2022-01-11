@@ -43,3 +43,13 @@ If you want to run this just using node you can do this using the sample data ab
 
 Navigate to (http://localhost:1337/). The app will automatically reload if you change any of the source files
 
+### TlDR Just give me digital monsters
+
+1. Install Docker and Docker-Compose (https://docs.docker.com/compose/install/)
+2. Uncomment data/digimon.js or replace with above.
+3. `git clone` this repo
+4. `docker-compose up -d`
+5. Wait for the containers to start and head over to (http://localhost:1337/)
+
+
+
