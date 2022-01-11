@@ -24,3 +24,5 @@ Simply replace the current module.exports with the code below:
            });
        });
     };```
+
+The fastest way to get this all up is to `docker-compose up -d` to spin up an empty strapi instance in production and a postgres container.
