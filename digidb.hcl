@@ -1,5 +1,5 @@
 job "digidb" {
-    datacenters = ["wolf-home"] 
+    datacenters = ["dc1"] 
     type = "service"
     group "digidb-api" { 
         count = 1
