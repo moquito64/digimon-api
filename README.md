@@ -5,6 +5,34 @@ This is currently running on my home server which can be found here: [digi-api](
 
 I have included the docker-compose as well as the nomad hcl files for this project. If someone wants to set up something similar. Be aware that the Nomad one is configured to use cni and proxy cars via consul service mesh.  
 
+### Calling the api endpoints
+If you want to make sample calls to the digi-api found at (https://digidb-api.wolfandcrow.tech) you can do so but since it is public be aware that its only read-only data and can be rebuilt or brought down since its self hosted in my on-prem cluster.
+
+the endpoint is `/digimons/` example `GET https://digidb-api.wolfandcrow.tech/digimons/?Name=Agumon` should give you:
+
+`[{"Index":18,"Name":"Agumon","id":18,"Stage":"Rookie","Type":"Vaccine","Attribute":"Fire","Imagesrc":"http://digidb.io/images/dot/dot050.png","published_at":"2022-01-10T23:29:44.438Z","created_at":"2022-01-10T23:29:44.774Z","updated_at":"2022-01-10T23:29:44.774Z"}]`
+
+You can `find,findone, and count`
+
+- findone `/digimons/:id`:
+
+`GET https://digidb-api.wolfandcrow.tech/digimons/1`
+
+`{"Index":161,"Name":"Kuramon","id":1,"Stage":"Baby","Type":"Free","Attribute":"Neutral","Imagesrc":"http://digidb.io/images/dot/dot629.png","published_at":"2022-01-10T23:29:44.458Z","created_at":"2022-01-10T23:29:45.501Z","updated_at":"2022-01-10T23:29:45.501Z"}`
+
+- find `/digimons`:
+
+`GET https://digidb-api.wolfandcrow.tech/digimons/`
+
+Response should be everything.
+
+- count `/digimons/count`:
+
+`GET https://digidb-api.wolfandcrow.tech/digimons/count`
+
+RESPONSE: `341`
+
+
 ### Sample Data
 I have provided sample data in data/digimon.json. You can load it in using the bootstrap function found in ./config/functions/bootstrap.js
 Simply replace the current module.exports with the code below:
@@ -50,6 +78,8 @@ Navigate to (http://localhost:1337/). The app will automatically reload if you c
 3. `git clone` this repo
 4. `docker-compose up -d`
 5. Wait for the containers to start and head over to (http://localhost:1337/)
+
+
 
 
 
