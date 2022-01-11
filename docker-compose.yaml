@@ -8,6 +8,7 @@ services:
       DATABASE_NAME: strapi
       DATABASE_HOST: postgres
       DATABASE_PORT: 5432
+      #change these for security
       DATABASE_USERNAME: strapi
       DATABASE_PASSWORD: strapi
     volumes:
@@ -22,6 +23,7 @@ services:
     image: postgres
     environment:
       POSTGRES_DB: strapi
+      #change these for security 
       POSTGRES_USER: strapi
       POSTGRES_PASSWORD: strapi
     volumes:
