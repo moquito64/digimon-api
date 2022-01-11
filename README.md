@@ -6,8 +6,9 @@ This is currently running on my home server which can be found here: [digi-api](
 I have included the docker-compose as well as the nomad hcl files for this project. If someone wants to set up something similar. Be aware that the Nomad one is configured to use cni and proxy cars via consul service mesh.  
 
 I have provided sample data in data/digimon.json. You can load it in using the bootstrap function found in ./config/functions/bootstrap.js
+Simply replace the current module.exports with the code below:
 
-  `module.exports = () => {
+  ```module.exports = () => {
    var input = require('fs').readFileSync('./data/digimon.json');
    const data = JSON.parse(input);
    Object.keys(data.fulldigimondata).forEach(entry =>
@@ -22,4 +23,4 @@ I have provided sample data in data/digimon.json. You can load it in using the b
                Imagesrc: data.fulldigimondata[entry].imagesrc
            });
        });
-    };`
+    };```
