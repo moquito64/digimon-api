@@ -32,8 +32,14 @@ Simply replace the current module.exports with the code below:
 The fastest way to get this all up is to `docker-compose up -d` to spin up an empty strapi instance in production and a postgres container.
 
 ### Just Node
+
 If you want to run this just using node you can do this using the sample data above. 
+
 `npm install` to pull all the required developement stuff
+
 `npm strapi build` to build the admin ui
+
 `npm stapi develop` to start a development server
+
 Navigate to (http://localhost:1337/). The app will automatically reload if you change any of the source files
+
