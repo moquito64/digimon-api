@@ -7,7 +7,7 @@ I have included the docker-compose as well as the nomad hcl files for this proje
 
 I have provided sample data in data/digimon.json. You can load it in using the bootstrap function found in ./config/functions/bootstrap.js
 
-  module.exports = () => {
+  `module.exports = () => {
    var input = require('fs').readFileSync('./data/digimon.json');
    const data = JSON.parse(input);
    Object.keys(data.fulldigimondata).forEach(entry =>
@@ -22,4 +22,4 @@ I have provided sample data in data/digimon.json. You can load it in using the b
                Imagesrc: data.fulldigimondata[entry].imagesrc
            });
        });
-    };
+    };`
